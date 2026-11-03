@@ -1,0 +1,23 @@
+# Data and Checkpoints
+data_root/
+*.pth
+*.ckpt
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store

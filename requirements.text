@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchvision
+pytorch-lightning>=2.0.0
+einops
+numpy
+Pillow
+opencv-python
+tqdm
