@@ -3,7 +3,6 @@
 Official PyTorch implementation of the paper: **"Phys-PromptIR: Physics-Inspired Prompt Learning with Adaptive Residual Modulation for Limited-Data Image Restoration"**.
 
 > **[Baoyue Xu]**, [Yinuo Jiang], [Yanyan Zhang]
-> [Paper Link / arXiv Link (If available)] | [Project Page (Optional)]
 
 ## Overview
 
@@ -20,8 +19,7 @@ We recommend using Conda to manage the environment.
 ```bash
 # Clone the repository
 git clone https://github.com/xby-sum/Phys_PromptIR.git
-cd Phys-PromptIR
-
+cd Phys_PromptIR
 # Create a new conda environment
 conda create -n physpromptir python=3.8
 conda activate physpromptir
