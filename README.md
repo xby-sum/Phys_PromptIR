@@ -19,7 +19,7 @@ We recommend using Conda to manage the environment.
 
 ```bash
 # Clone the repository
-git clone https://github.com/[XUby]/Phys-PromptIR.git
+git clone https://github.com/xby-sum/Phys_PromptIR.git
 cd Phys-PromptIR
 
 # Create a new conda environment
